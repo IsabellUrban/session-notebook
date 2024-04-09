@@ -17,3 +17,11 @@ Erst Lokal auf Git erstellen dann auf github hochladen
 `git push -u origin main` &rarr; Push all commits to repository auf Main Branch (-u = upstream // macht man beim ersten Mal)
 
 `git remote add origin <SSH-Key>` &rarr; Verknüpfung zu Github-Repository mit entsprechendem SSH-Key herstellen
+
+## Mehr wichtige Befehle
+
+`git log` &rarr; commit Hostorie
+
+`git log --oneline`&rarr; Historie untereinander anzeigen
+
+`git remote -v` &rarr; Verknüpfung wird angezeigt
